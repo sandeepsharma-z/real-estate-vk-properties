@@ -7,13 +7,13 @@ const testimonials = [
   {
     quote: "VK Properties made our dream home a reality. Their expertise in the luxury market is unmatched, and the personalized service we received was extraordinary.",
     name: "Sarah & Michael Thompson",
-    role: "Homebuyers — Beverly Hills",
+    role: "Homebuyers — Delhi",
     stars: 5,
   },
   {
     quote: "Selling our waterfront estate was seamless. The team secured a buyer above asking price within two weeks. Truly exceptional professionals.",
     name: "Robert Chen",
-    role: "Seller — Miami Beach",
+    role: "Seller — Delhi",
     stars: 5,
   },
   {

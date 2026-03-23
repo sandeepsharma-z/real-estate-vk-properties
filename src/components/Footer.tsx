@@ -48,7 +48,7 @@ const Footer = () => {
             <div className="space-y-3 mb-8">
               <div className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-accent mt-0.5 shrink-0" />
-                <p className="text-sm font-light" style={{ color: "hsla(40,20%,98%,0.6)" }}>123 Park Avenue, Suite 2400, New York, NY 10017</p>
+                <p className="text-sm font-light" style={{ color: "hsla(40,20%,98%,0.6)" }}>Delhi, India</p>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-accent shrink-0" />
@@ -56,7 +56,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-accent shrink-0" />
-                <p className="text-sm font-light" style={{ color: "hsla(40,20%,98%,0.6)" }}>hello@luxuryhaven.com</p>
+                <p className="text-sm font-light" style={{ color: "hsla(40,20%,98%,0.6)" }}>hello@vk-properties.com</p>
               </div>
             </div>
 
@@ -78,7 +78,7 @@ const Footer = () => {
         <div className="border-t pt-8" style={{ borderColor: "hsla(40,20%,98%,0.1)" }}>
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-xs font-light" style={{ color: "hsla(40,20%,98%,0.4)" }}>
-              Â© 2026 VK Properties. All rights reserved.
+              © 2026 VK Properties. All rights reserved.
             </p>
             <div className="flex gap-6">
               {["Privacy Policy", "Terms of Service", "Sitemap"].map((link) => (

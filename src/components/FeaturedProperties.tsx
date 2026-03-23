@@ -9,7 +9,7 @@ const properties = [
   {
     image: property1,
     name: "The Skyline Penthouse",
-    location: "Manhattan, New York",
+    location: "Delhi, India",
     price: "$8,500,000",
     details: "4 Bed • 3 Bath • Terrace • City Views",
     featured: true,
@@ -17,21 +17,21 @@ const properties = [
   {
     image: property2,
     name: "Villa Côte d'Azur",
-    location: "Malibu, California",
+    location: "Delhi, India",
     price: "$12,750,000",
     details: "6 Bed • 5 Bath • Pool • Ocean View",
   },
   {
     image: property3,
     name: "The Modern Residence",
-    location: "Austin, Texas",
+    location: "Delhi, India",
     price: "$2,450,000",
     details: "3 Bed • 2 Bath • Garden • Smart Home",
   },
   {
     image: property4,
     name: "Waterfront Estate",
-    location: "Miami, Florida",
+    location: "Delhi, India",
     price: "$6,900,000",
     details: "5 Bed • 4 Bath • Dock • Pool",
   },
