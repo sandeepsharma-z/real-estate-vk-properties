@@ -78,7 +78,7 @@ const Footer = () => {
         <div className="border-t pt-8" style={{ borderColor: "hsla(40,20%,98%,0.1)" }}>
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-xs font-light" style={{ color: "hsla(40,20%,98%,0.4)" }}>
-              © 2026 VK Properties. All rights reserved.
+              &copy; 2026 VK Properties. All rights reserved.
             </p>
             <div className="flex gap-6">
               {["Privacy Policy", "Terms of Service", "Sitemap"].map((link) => (
