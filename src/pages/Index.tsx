@@ -10,6 +10,7 @@ import Testimonials from "@/components/Testimonials";
 import MarketInsights from "@/components/MarketInsights";
 import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
+import FloatingAssistant from "@/components/FloatingAssistant";
 
 const Index = () => {
   return (
@@ -28,6 +29,7 @@ const Index = () => {
         <CTASection />
       </main>
       <Footer />
+      <FloatingAssistant />
     </div>
   );
 };
